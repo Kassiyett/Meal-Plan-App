@@ -1,4 +1,4 @@
-# My Personal Project - Meal Plan Tracker
+# Meal Plan Tracker
 
 ## A platform to create a shopping list from your meal plan for the next week
 
