@@ -1,4 +1,4 @@
-# My Personal Project - Meal Plan Tracker
+# Meal Plan Tracker
 
 ## A platform to create a shopping list from your meal plan for the next week
 
@@ -8,13 +8,13 @@ Meal Plan Tracker is an application to help users create and manage their meal p
 
 ### Who?
 
-The targeted user group of this app are upper-year students, who are struggling to cook their own food. 
+The targeted user group of this app is upper-year students, who are struggling to cook their own food. 
 
 ### User Stories
 
-- As a user, I want to be able to add my meals to the plan 
-- As a user, I want to be able to add ingredients for meals 
-- As a user, I want to generate a shopping list from my meal plan 
-- As a user, I want to be able to add items to the shopping list manually so that I can include items that are not part of the meal plan
-- As a user, I want to save my meals for future reference
-- As a user, I want to save and load data from previous interaction
+- Designed a feature that allows users to add meals to their personalized meal plan.
+- Developed functionality enabling users to input detailed ingredients for each meal to improve the accuracy of shopping lists.
+- Implemented a shopping list generator based on meal plans to simplify users’ grocery shopping experience and save time.
+- Added the ability for users to manually add extra items to their shopping list, ensuring flexibility beyond meal-based ingredients.
+- Built a system for users to save their favorite meals for quick access in future sessions, increasing app retention.
+- Enabled data persistence by allowing users to save and load previous meal plans and shopping lists, providing a seamless user experience across sessions.
